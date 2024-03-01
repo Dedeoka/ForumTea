@@ -1,0 +1,6 @@
+# https://tea.xyz/index
+---
+version: 1.0.0
+codeOwners:
+  - '0x5EdDc845E27672e6acaf60d245a45246292bA9dD'
+quorum: 1
